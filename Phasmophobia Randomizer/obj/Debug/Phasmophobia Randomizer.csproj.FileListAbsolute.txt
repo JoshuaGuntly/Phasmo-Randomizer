@@ -1,0 +1,11 @@
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\bin\Debug\Phasmophobia Randomizer.exe.config
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\bin\Debug\Phasmophobia Randomizer.exe
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\bin\Debug\Phasmophobia Randomizer.pdb
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia Randomizer.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia_Randomizer.Form1.resources
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia_Randomizer.Properties.Resources.resources
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia Randomizer.csproj.GenerateResource.cache
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia Randomizer.exe
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia Randomizer.pdb
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia_Randomizer.Information.resources
+C:\Users\Josh\Desktop\Phasmophobia Randomizer\Phasmophobia Randomizer\Phasmophobia Randomizer\obj\Debug\Phasmophobia_Randomizer.Randomizer.resources
